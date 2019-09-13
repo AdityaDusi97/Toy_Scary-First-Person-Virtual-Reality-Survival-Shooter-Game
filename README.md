@@ -21,6 +21,8 @@ We use both the controller of the VIVE.
 All the packages and assets needed to run the game are in provided, except SteamVR, which can be downloaded from the Assets store in Unity. The game will still run without SteamVR but it won't be rendered in stereo. The last thing to do is to set the key bindings on the controller. 
 
 * Left controller: Options as they appear in the key bindings screen in Unity.
+
+
 Control Name | Action | Type | Variable Name
 ------------ | ------------- | ------------ | -------------
 Grip | Use as button | Click | Grab Grip
@@ -30,6 +32,8 @@ Trackpad | Use as button | Click | Teleport
 Trackpad | Use as trackpad | Position | touchpadtouch
 
 * Right controller: 
+
+
 Control Name | Action | Type | Variable Name
 ------------ | ------------- | ------------ | -------------
 Grip | Use as button | Click | Grab Grip
