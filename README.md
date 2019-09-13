@@ -6,7 +6,7 @@ Our brief project report and key features can be found here:
 https://drive.google.com/open?id=1UZtJ9otjEWJiZ83sJq35pp51lHmUopjl
 
 # Requirements:  
-* ** Unity 2018.3.12f1 **
+* Unity 2018.3.12f1
 * A desktop with a Graphics Processing Unit
 
 We implement a survival shooter game in Virtual Reality on the HTC Vive. You play as a completely controllable character, navigating through the map and killing waves of zombie bunnies, bears and elephants. You have two weapons: 
@@ -21,7 +21,7 @@ We use both the controller of the VIVE.
 All the packages and assets needed to run the game are in provided, except SteamVR, which can be downloaded from the Assets store in Unity. The game will still run without SteamVR but it won't be rendered in stereo. The last thing to do is to set the key bindings on the controller. 
 
 * Left controller: Options as they appear in the key bindings screen in Unity.
-
+Control Name | Action | Type | Variable Name
 ------------ | ------------- | ------------ | -------------
 Grip | Use as button | Click | Grab Grip
 Menu | Use as button | Click | reset
@@ -30,7 +30,7 @@ Trackpad | Use as button | Click | Teleport
  | Use as trackpad | Position | touchpadtouch
 
 * Right controller: 
-
+Control Name | Action | Type | Variable Name
 ------------ | ------------- | ------------ | -------------
 Grip | Use as button | Click | Grab Grip
 Menu | Use as button | Click | pausemenu
