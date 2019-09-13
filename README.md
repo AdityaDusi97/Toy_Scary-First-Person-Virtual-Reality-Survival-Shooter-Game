@@ -27,7 +27,7 @@ Grip | Use as button | Click | Grab Grip
 Menu | Use as button | Click | reset
 Trigger | Use as trigger | Pull | grenadethrow
 Trackpad | Use as button | Click | Teleport
- | Use as trackpad | Position | touchpadtouch
+Trackpad | Use as trackpad | Position | touchpadtouch
 
 * Right controller: 
 Control Name | Action | Type | Variable Name
@@ -36,7 +36,7 @@ Grip | Use as button | Click | Grab Grip
 Menu | Use as button | Click | pausemenu
 Trigger | Use as trigger | Pull | squeeze
 Trackpad | Use as button | Click | Teleport
- | Use as trackpad | Position | touchpadtouch
+Trackpad | Use as trackpad | Position | touchpadtouch
 
 Next, click *Edit Action Poses* and map *Left Hand Raw* to *Pose* and leave the rest as *Unused*. Similar thing for the right hand.
 
