@@ -1,6 +1,8 @@
 # Toy Scary: A first person virtual reality survival shooter game
 Course Project for EE267
 
+![Game Logo](https://github.com/AdityaDusi97/Toy_Scary-First-Person-Virtual-Reality-Survival-Shooter-Game/blob/master/New_game.png)
+
 This game was create as a course project for the course- EE 267: Virtual Reality at Stanford Univsersity. 
 Our brief project report and key features can be found here:
 https://drive.google.com/open?id=1UZtJ9otjEWJiZ83sJq35pp51lHmUopjl
